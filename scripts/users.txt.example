@@ -1,0 +1,4 @@
+# Format: username:password  (one per line). Copy to users.txt and edit.
+# users.txt is git-ignored: never commit real credentials.
+admin:change-me
+student:change-me
